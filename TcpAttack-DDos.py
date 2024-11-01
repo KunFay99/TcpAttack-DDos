@@ -39,9 +39,9 @@ print("\033[32m                                         \033[0m")
 print("\033[32m                                          \033[0m")              
 print("\033[31m                                           \033[0m")      
 print("\033[31m    ==================================        \033[0m") 
-print("\033[33m            \033[0m
-print("\033[32m             \033[0m
-print("\033[31m          \033[0m
+print("\033[33m            \033[0m")
+print("\033[32m             \033[0m")
+print("\033[31m          \033[0m")
 # I'm using my local router for testing
 target_ip = "192.168.4.1"
 
