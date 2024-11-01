@@ -1,3 +1,4 @@
+# _*_ coding: utf-8 _*_
 import socket
 import os
 import random
